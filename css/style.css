@@ -266,12 +266,9 @@ h3 a {
 
 /* *** Items Start *** */
 .popular-items {
-    margin-bottom: 70px;
-}
-
-.popular-items {
     background: url('https://images.timex.com/image/upload/q_auto,f_auto/w_1920,c_fit/Libraries/timexshared/images/category/2022/Q1/01965_WB22-March_Hp_Slider_Q_GMT_TW2V38000-MECH.jpg');
     padding: 100px;
+    margin-bottom: 70px;
     background-attachment: fixed;
     background-size: cover;
     background-position: top center;
